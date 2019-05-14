@@ -1,0 +1,16 @@
+
+name  Donald Duck
+status active
+phone primary 5551212 secondary 8329050
+
+name  Jimmy James
+status  active
+phone primary 8001234 
+
+name":"Han Solo",
+status":"retired",
+phone pnone
+
+name Chew Bacca
+status retired
+phone primary 6123478  secondary 6461234 

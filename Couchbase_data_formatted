@@ -1,0 +1,16 @@
+("Employee_Duck",
+{"name":"Donald Duck",
+"status":"active",
+"phone":{"primary":"5551212","secondary":"8329050"}}),
+("Employee_James",
+{"name":"Jimmy James",
+"status":"active",
+"phone":{"primary":"8001234","secondary":"none"}})
+("Employee_Solo",
+{"name":"Han Solo",
+"status":"retired",
+"phone":{"primary":"none","secondary":"none"}}),
+("Employee_Bacca",
+{"name":"Chew Bacca",
+"status":"retired",
+"phone":{"primary":"6123478","secondary":"6461234"}})
